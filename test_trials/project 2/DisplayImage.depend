@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451030219 source:/home/pururastogi/openCV_work/test_trials/codeblocksDisplayImage/DisplayImage/main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+

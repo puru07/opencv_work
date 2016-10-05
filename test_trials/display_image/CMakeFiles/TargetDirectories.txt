@@ -1,0 +1,1 @@
+/home/pururastogi/openCV_work/test_trials/CMakeFiles/DisplayImage.dir

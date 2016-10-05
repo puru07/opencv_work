@@ -1,0 +1,9 @@
+compiler, search directories
+../../../../../../usr/include/opencv   
+linker, search directories
+../../../../../../usr/lib/x86_64-linux-gnu   
+
+linker settings
+../../../../../../usr/lib/x86_64-linux-gnu/libopencv_imgproc.so
+../../../../../../usr/lib/x86_64-linux-gnu/libopencv_highgui.so
+../../../../../../usr/lib/x86_64-linux-gnu/libopencv_core.so
