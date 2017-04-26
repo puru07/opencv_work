@@ -11,7 +11,7 @@ int main()
     string filename = "img_data/image";
     string filetype = ".jpg";
 
-    cvNamedWindow("Camera_Output", 1);    //Create window
+    cvNamedWindow("Camera_Output", CV_CAP_XIAPI);    //Create window
     CvCapture* capture = cvCaptureFromCAM(0);    //(CV_CAP_ANY);  //Capture using any camera connected to your system
     while(1){ //Create infinte loop for live streaming
  
